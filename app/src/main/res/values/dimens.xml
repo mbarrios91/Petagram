@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="corner_radius_cardview">4dp</dimen>
+    <dimen name="padding_layuot">8sp</dimen>
+    <dimen name="icono_hueso">40dp</dimen>
+    <dimen name="icono_hueso_dos">60dp</dimen>
+    <dimen name="margin_nombre">20dp</dimen>
+    <dimen name="margin_ranking">210dp</dimen>
+    <dimen name="tv_nombre">25sp</dimen>
+</resources>
